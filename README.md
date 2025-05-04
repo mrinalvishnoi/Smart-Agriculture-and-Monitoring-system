@@ -1,1 +1,2 @@
 # Smart-Agriculture-and-Monitoring-system
+This project aims to develop an advanced agricultural system to automate and monitor various farming tasks. For example, the system can be programmed to automatically irrigate a piece of land, spray fertilizers or pesticides on crops wirelessly, and monitor soil moisture through a moisture-sensing system. With such an advanced system, farmers can focus on manual-intensive tasks and increase productivity. Learners can also implement a similar IoT project to monitor house gardens or indoor plants.
